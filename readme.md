@@ -1,7 +1,7 @@
 
 We will be reusing project files from last time.
 
-Start by editing the **index.html** and **style.css** files in this repo.
+Start by editing the **index.html** and **style.css** files in this repo. Add the style code at the end of the style.css file.
 
 Add a style in style.css that:
  - adds a border to the section tag. Use id="main-section" for the section css selector.
