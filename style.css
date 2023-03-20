@@ -35,3 +35,53 @@ tfoot {
 textarea {
   resize: vertical;
 }
+
+#main-section {
+  border: 1px solid blue;
+}
+
+section {
+  padding: 20px;
+}
+
+.ul-style {
+  border: 1px solid blue;
+  padding: 20px;
+  padding-left: 40px;
+}
+
+h1, h2, h3 {
+  border: 1px solid red;
+  text-align: center;
+}
+
+.ul-style li {
+  text-decoration: none;
+  cursor: none;
+}
+
+a {
+  text-decoration: none;
+  cursor: none;
+}
+
+a:hover {
+  color: white;
+  background-color: red;
+}
+
+#span-display {
+  display: block;
+}
+
+#div-display {
+  border: 1px solid red;
+  height: 200px;
+  width: 100px;
+  display: inline;
+}
+
+#finish-button {
+  transform: scale(200%) rotate(90deg);
+}
+
